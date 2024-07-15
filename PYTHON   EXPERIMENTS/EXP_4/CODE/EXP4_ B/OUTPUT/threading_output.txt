@@ -1,0 +1,21 @@
+Akash yadav
+Calculate the square root of the given number
+ Calculate the cube Root of  the given number
+Square Root is :  4.0
+Cube Root is :  2.5198420997897464
+Square Root is :  2.8284271247461903
+ Cube Root is :  2.0
+Square Root is :  5.196152422706632
+Cube Root is :  3.0
+Square Root is :  8.0
+ Cube Root is :  3.9999999999999996
+Square Root is :  2.23606797749979
+Cube Root is :  1.7099759466766968
+Total time taking by threads is : 1.501918077468872
+ Again executing the main thread
+ Thread 1 and Thread 2 have finished their execution.
+
+Output:
+Hello, how old are you, what is your name? ? 20 ,AKASH YADAV
+Thank you
+

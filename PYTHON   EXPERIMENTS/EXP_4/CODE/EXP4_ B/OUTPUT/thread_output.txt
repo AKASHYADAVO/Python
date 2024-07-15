@@ -1,0 +1,29 @@
+[Running] python -u "c:\Users\lenovo\Downloads\thread.PY"
+ Calculate the square root of the given number
+ Square Root is :  2.8284271247461903
+ Square Root is :  5.196152422706632
+ Square Root is :  8.0
+ Square Root is :  2.0
+ Square Root is :  1.4142135623730951
+ Calculate the cube root of  the given number
+ Cube Root is :  2.0
+ Cube Root is :  3.0
+ Cube Root is :  3.9999999999999996
+ Cube Root is :  1.5874010519681994
+ Cube Root is :  1.2599210498948732
+ Total time taken by threads is : 3.013620138168335
+ Calculate the square root of the given number
+ Square Root is :  2.8284271247461903
+ Square Root is :  5.196152422706632
+ Square Root is :  8.0
+ Square Root is :  2.0
+ Square Root is :  1.4142135623730951
+ Calculate the cube root of  the given number
+ Cube Root is :  2.0
+ Cube Root is :  3.0
+ Cube Root is :  3.9999999999999996
+ Cube Root is :  1.5874010519681994
+ Cube Root is :  1.2599210498948732
+ Total time taken by threads is : 3.0457797050476074
+
+[Done] exited with code=0 in 6.816 seconds

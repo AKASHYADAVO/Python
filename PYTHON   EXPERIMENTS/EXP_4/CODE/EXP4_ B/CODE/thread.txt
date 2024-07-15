@@ -1,0 +1,24 @@
+import thread # import the thread module  
+import time# import time module
+import math
+
+  
+def cal_sqre(num): # define the cal_sqre function  
+    print(" Calculate the square root of the given number")  
+    for n in num:   
+        time.sleep(0.3) # at each iteration it waits for 0.3 time  
+        print(' Square Root is : ',math.sqrt(n))  
+  
+def cal_cube(num): # define the cal_cube() function  
+    print(" Calculate the cube root of  the given number")  
+    for n in num:   
+        time.sleep(0.3) # at each iteration it waits for 0.3 time  
+        print(" Cube Root is : ", n**(1/3) ) 
+  
+arr = [16, 27, 64, 8, 2] # given array  
+  
+t1 = time.time() # get total time to execute the functions  
+cal_sqre(arr) # call cal_sqre() function  
+cal_cube(arr) # call cal_cube() function  
+  
+print(" Total time taken by threads is :", time.time() - t1) # print the total time  
